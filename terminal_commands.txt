@@ -11,3 +11,8 @@
 11. To clear the terminal
 12. git init : To initialize a git repository
 13. git status: To check status of yout git 
+14. git config --global user.name "" : To set your identity on git
+14. git config --global user.email "" : To set your identity on git
+15. git commit -m "first commit"
+16. git log
+17. git branch
