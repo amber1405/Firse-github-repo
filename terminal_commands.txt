@@ -1,0 +1,13 @@
+1. ctrl + ~ : Open terminal on VSCode
+2. pwd : To display the path of your current working directory
+3. ls : To list the files and folders in your current directory
+4. echo : To print something on your terminal
+5. touch : to Create a file
+6. rm : To Remove a file
+7. mkdir : to Create a folders
+8. rmdir : to Remove a folders
+9. cd : To change the working directory
+10. cd .. : To go to one directory backwards
+11. To clear the terminal
+12. git init : To initialize a git repository
+13. git status: To check status of yout git 
